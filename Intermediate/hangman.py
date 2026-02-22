@@ -1,5 +1,5 @@
 import random
-
+# Hangman Game - Intermediate Task
 # Word list
 words = ["python", "developer", "internship", "shadowfox"]
 
