@@ -19,14 +19,19 @@ This internship includes Beginner, Intermediate, and Advanced level Python proje
 ---
 
 ## 📂 Repository Structure
+
 ShadowFox
 │
 ├── Beginner
 ├── Intermediate
 ├── Advanced
+│ ├── student_analysis.ipynb
+│ ├── cricket_fielding_analysis.ipynb
+│ ├── sentiment_analysis.py
 ├── screenshots
 ├── README.md
-├── LICENSE
+└── LICENSE
+
 
 ---
 
