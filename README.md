@@ -19,6 +19,7 @@ This internship includes Beginner, Intermediate, and Advanced level Python proje
 ---
 
 ## 📂 Repository Structure
+---
 
 ShadowFox
 │
