@@ -1,5 +1,10 @@
 # 🚀 ShadowFox – Python Development Internship Tasks
 
+
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 This repository contains all tasks completed during my Python Development Virtual Internship.
 
 ---
@@ -101,6 +106,20 @@ This internship includes Beginner, Intermediate, and Advanced level Python proje
 
 ## 📸 Project Screenshots
 
+
+## 📸 Project Screenshots
+
+### 🎮 Hangman Game
+![Hangman Output](screenshots/hangman_output.png)
+
+### 🌐 Web Scraper
+![Web Scraper Output](screenshots/web_scraper_output.png)
+
+### 🏏 Cricket Fielding Analysis
+![Cricket Fielding Output](screenshots/cricket_fielding_output.png)
+
+### 🧠 NLP Sentiment Analysis
+![NLP Output](screenshots/nlp_sentiment_output.png)
 All project outputs are available in the `screenshots` folder.
 
 ---
