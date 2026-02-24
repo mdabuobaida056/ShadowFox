@@ -107,7 +107,7 @@ This internship includes Beginner, Intermediate, and Advanced level Python proje
 ## 📸 Project Screenshots
 
 
-## 📸 Project Screenshots
+
 
 ### 🎮 Hangman Game
 ![Hangman Output](screenshots/hangman_output.png)
