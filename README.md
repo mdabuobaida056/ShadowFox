@@ -109,8 +109,11 @@ All project outputs are available in the `screenshots` folder.
 
 **Md Abuobaida**  
 AI & Data Science Engineering Student  
-Python Developer | Machine Learning Enthusiast
+Python Developer | Machine Learning Enthusiast  
+
+🔗 GitHub: https://github.com/mdabuobaida056
 
 ---
+
 
 ⭐ Thank you for visiting this repository.
